@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/26/trunk/engine/models/generated
+END
+BasePlayers.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/26/trunk/engine/models/generated/BasePlayers.php
+END
+BaseGameDetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26/trunk/engine/models/generated/BaseGameDetails.php
+END
+BaseTeamPlayers.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26/trunk/engine/models/generated/BaseTeamPlayers.php
+END
+BaseTeams.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26/trunk/engine/models/generated/BaseTeams.php
+END
+BaseGames.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/26/trunk/engine/models/generated/BaseGames.php
+END

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<game>
+		<playnumber></playnumber>
+		<teams>
+			<team1>
+				
+			</team1>
+			<team2></team2>
+		</teams>
+	<players>
+					<player id="4">
+						<team>1</team>
+						<shirtnumber>5</shirtnumber>
+						<role>Midfielder</role>
+						<speed>5</speed>
+						<intelligence>5</intelligence>
+					</player>
+					
+				<player id="5">
+						<team>2</team>
+						<shirtnumber>5</shirtnumber>
+						<role>Midfielder</role>
+						<speed>5</speed>
+						<intelligence>5</intelligence>
+					</player></players></game>
+	<inpitch>
+		<players>
+			<player id="4">
+				<x_pos></x_pos>
+				<y_pos></y_pos>
+			</player>
+			<player id="5">
+				<x_pos></x_pos>
+				<y_pos></y_pos>
+			</player>
+		</players>
+		<ball>
+			<x_pos></x_pos>
+			<y_pos></y_pos>
+		</ball>
+	</inpitch>
+</root>

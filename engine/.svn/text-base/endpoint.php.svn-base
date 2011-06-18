@@ -1,0 +1,22 @@
+<?php
+
+error_reporting(E_ALL);
+include_once 'bootstrap.php';
+// uncomment this line to test connection to doctrine
+//echo Doctrine_Core::getPath(); die();
+
+if ($_GET){
+	$functionName = $_GET["f"];
+	$playNumber = $_GET["c"];
+	$functionName($playNumber);
+}
+
+
+function getInstructions($playNumber){
+	$game = game::getInstance($playNumber);
+	print json_encode( $game->getInstructions() );
+}
+
+
+
+?>

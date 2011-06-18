@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 58
+doctrine http://svn.doctrine-project.org/branches/1.2/lib
+
+END
